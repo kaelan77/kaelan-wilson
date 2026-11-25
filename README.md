@@ -6,6 +6,6 @@ Areas of Interest:
 -Embedded Systems & Microcontrollers
 -Electronics & Circuit Design
 -Sensor Integration
--PCB Design (KiCad)
 -Automation & Control Systems
+
 
