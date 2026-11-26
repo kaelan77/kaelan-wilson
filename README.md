@@ -1,6 +1,6 @@
 Welcome to my Electrical Engineering Portfolio.
 
-This repository documents my journey into electrical and electronic engineering through practical projects, circuit design, embedded systems, programming, and hardware development. The aim of each project is to strengthen my understanding of real-world engineering principles while developing the technical and problem-solving skills used throughout industry.
+This repository documents my journey into electrical and electronic engineering through hands-on projects related to electrical and electronic engineering. Each project is documented in phases, covering what I built, what went wrong and how I fixed it.
 
 Areas of Interest:
 -Embedded Systems & Microcontrollers
@@ -8,4 +8,5 @@ Areas of Interest:
 -Sensor Integration
 -Automation & Control Systems
 
+Thanks for checking out my portfolio. More projects (and more lessons learnt the hard way 😂) coming soon.
 
